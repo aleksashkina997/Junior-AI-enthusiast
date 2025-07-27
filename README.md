@@ -4,7 +4,7 @@
 Здесь вы найдёте всё, чтобы перейти от слов к делу — и при этом не сгореть от перегруза.
 
 ## 📚 Навигация
-- [🌱 Уровень Junior](levels/junior/README.md)
+- [🌱 Уровень Junior](https://github.com/aleksashkina997/Junior-AI-enthusiast/tree/main/junior)
 - [🌿 Уровень Middle](levels/middle/README.md)
 - [🌳 Уровень Senior](levels/senior/README.md)
 - [🛠️ Инструменты](tools/)
