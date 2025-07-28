@@ -11,6 +11,7 @@
 - [🎓 Воркшопы и митапы](workshops/)
 - [📐 Шаблоны и промпты](templates/)
 - [📖 Глоссарий](glossary/ai-terms.md)
+- vse imenno tak 
 
 ## 🤝 Хочешь добавить материал?
 Читай [CONTRIBUTORS.md](CONTRIBUTORS.md) — и присоединяйся 💚
